@@ -1,0 +1,128 @@
+[Board "1"]
+[Deal "N:KQ.A98.AQJ73.QT8 J86.KQ76.K54.KJ3 T9432.T32.T92.A2 A75.J54.86.97654"]
+[OptimumResultTable "S;H;D;C;NT"]
+7 6 8 5 7 
+5 7 4 8 6 
+7 6 8 5 7 
+5 7 4 8 6 
+
+[Board "2"]
+[Deal "N:A7.KQ85.K543.KQ4 6.J9764.Q87.JT86 T9432.T32.T92.A2 KQJ85.A.AJ6.9753"]
+[OptimumResultTable "S;H;D;C;NT"]
+7 7 7 5 8 
+6 4 5 7 5 
+7 7 7 5 8 
+6 4 5 7 5 
+
+[Board "3"]
+[Deal "N:AK.AK95.53.KJ764 QJ86.Q8.AKJ76.Q8 T9432.T32.T92.A2 75.J764.Q84.T953"]
+[OptimumResultTable "S;H;D;C;NT"]
+8 9 6 9 7 
+4 3 6 4 6 
+8 9 6 9 7 
+4 3 6 4 6 
+
+[Board "4"]
+[Deal "N:AKJ8.9864.AQ.K65 6.KQJ75.874.Q943 T9432.T32.T92.A2 Q75.A.KJ653.JT87"]
+[OptimumResultTable "S;H;D;C;NT"]
+10 7 6 5 9 
+3 5 7 7 4 
+10 7 6 5 9 
+3 5 7 8 4 
+
+[Board "5"]
+[Deal "N:A76.AK95.A86.Q74 K8.Q86.KQ53.T865 T9432.T32.T92.A2 QJ5.J74.J74.KJ93"]
+[OptimumResultTable "S;H;D;C;NT"]
+8 7 6 6 7 
+5 5 6 7 6 
+8 7 6 6 7 
+5 5 6 7 6 
+
+[Board "6"]
+[Deal "N:A85.Q6.AKQ64.K86 KJ.95.875.QJT974 T9432.T32.T92.A2 Q76.AKJ874.J3.53"]
+[OptimumResultTable "S;H;D;C;NT"]
+8 5 9 6 7 
+4 8 4 7 5 
+8 5 9 6 7 
+4 8 4 7 5 
+
+[Board "7"]
+[Deal "N:A6.QJ54.AKJ65.QJ QJ7.AK.873.T8654 T9432.T32.T92.A2 K85.9876.Q4.K973"]
+[OptimumResultTable "S;H;D;C;NT"]
+7 8 9 4 7 
+5 4 4 8 5 
+7 8 9 4 7 
+5 4 4 8 5 
+
+[Board "8"]
+[Deal "N:AJ7.AK74.AQ3.987 Q86.Q5.K864.KJ43 T9432.T32.T92.A2 K5.J986.J75.QT65"]
+[OptimumResultTable "S;H;D;C;NT"]
+9 8 7 6 7 
+4 5 6 7 5 
+9 8 7 6 7 
+4 5 6 7 6 
+
+[Board "9"]
+[Deal "N:KJ.A76.AK854.KT7 A8765.Q85.7.J643 T9432.T32.T92.A2 Q.KJ94.QJ63.Q985"]
+[OptimumResultTable "S;H;D;C;NT"]
+8 7 9 6 8 
+5 6 4 7 4 
+8 7 9 6 8 
+5 6 4 7 5 
+
+[Board "10"]
+[Deal "N:QJ6.KJ.KQ4.KQT84 A7.Q84.J653.J963 T9432.T32.T92.A2 K85.A9765.A87.75"]
+[OptimumResultTable "S;H;D;C;NT"]
+9 5 6 7 6 
+4 8 7 6 7 
+9 5 6 7 6 
+4 8 7 6 7 
+
+[Board "11"]
+[Deal "N:K65.K5.AK7.KJT43 QJ.874.8543.9865 T9432.T32.T92.A2 A87.AQJ96.QJ6.Q7"]
+[OptimumResultTable "S;H;D;C;NT"]
+10 7 8 9 9 
+3 6 5 3 3 
+10 7 8 9 9 
+3 6 5 3 4 
+
+[Board "12"]
+[Deal "N:AK7.KJ.AJ8.KT543 Q65.A654.Q64.J86 T9432.T32.T92.A2 J8.Q987.K753.Q97"]
+[OptimumResultTable "S;H;D;C;NT"]
+10 8 8 8 8 
+3 5 5 4 5 
+10 8 8 8 8 
+3 5 5 5 5 
+
+[Board "13"]
+[Deal "N:KJ75.KJ5.AKQ8.T7 8.AQ8.J43.KQJ865 T9432.T32.T92.A2 AQ6.9764.765.943"]
+[OptimumResultTable "S;H;D;C;NT"]
+9 6 8 5 5 
+3 6 5 8 4 
+9 6 8 5 5 
+4 7 5 8 8 
+
+[Board "14"]
+[Deal "N:AQJ6.AKJ5.K54.53 K5.Q9.AQ763.KQT8 T9432.T32.T92.A2 87.8764.J8.J9764"]
+[OptimumResultTable "S;H;D;C;NT"]
+9 8 5 4 6 
+3 4 7 9 4 
+8 8 5 4 6 
+3 4 7 9 4 
+
+[Board "15"]
+[Deal "N:AKJ5.J96.A8.KQ95 87.Q75.7654.T863 T9432.T32.T92.A2 Q6.AK84.KQJ3.J74"]
+[OptimumResultTable "S;H;D;C;NT"]
+9 6 6 8 9 
+3 6 7 5 4 
+9 6 6 8 9 
+3 6 7 5 4 
+
+[Board "16"]
+[Deal "N:AJ65.A854.AQ5.Q3 K.Q976.8.KJ98654 T9432.T32.T92.A2 Q87.KJ.KJ7643.T7"]
+[OptimumResultTable "S;H;D;C;NT"]
+9 7 6 4 8 
+4 6 6 9 5 
+9 7 6 4 8 
+4 6 6 9 5 
+
